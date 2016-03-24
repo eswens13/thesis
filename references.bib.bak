@@ -1,0 +1,767 @@
+% You don't have to leave blank fields, but it doesn't hurt.
+% We've left them here to show you what you can enter.
+
+@article{EliasNair2009,
+	ISSN = {00368075, 10959203},
+	URL = {http://www.jstor.org/stable/20402966},
+	abstract = {Although graphite is known as one of the most 
+				chemically inert materials, we have found that 
+				graphene, a single atomic plane of graphite, can 
+				react with atomic hydrogen, which transforms this 
+				highly conductive zero-overlap semimetal into an 
+				insulator. Transmission electron microscopy reveals 
+				that the obtained graphene derivative (graphane) is 
+				crystalline and retains the hexagonal lattice, but 
+				its period becomes markedly shorter than that of 
+				graphene. The reaction with hydrogen is reversible, 
+				so that the original metallic state, the lattice 
+				spacing, and even the quantum Hall effect can be 
+				restored by annealing. Our work illustrates the 
+				concept of graphene as a robust atomic-scale 
+				scaffold on the basis of which new two-dimensional 
+				crystals with designed electronic and other 
+				properties can be created by attaching other atoms 
+				and molecules.},
+	author = {D. C. Elias and R. R. Nair and T. M. G. Mohiuddin and 
+			  S. V. Morozov and P. Blake and M. P. Halsall and A. 
+			  C. Ferrari and D. W. Boukhvalov and M. I. Katsnelson 
+			  and A. K. Geim and K. S. Novoselov},
+	journal = {Science},
+	number = {5914},
+	pages = {610-613},
+	publisher = {American Association for the Advancement of 
+				 Science},
+	title = {Control of Graphene's Properties by Reversible 
+			 Hydrogenation: Evidence for Graphane},
+	volume = {323},
+	year = {2009}
+}
+
+@article{SofoChaudhari2007,
+	Author = {Sofo, Jorge O. and Chaudhari, Ajay S. and Barber, 
+			  Greg D.},
+	Title = {{Graphane: A two-dimensional hydrocarbon}},
+	Journal = {{Physical Review B}},
+	Year = {{2007}},
+	Volume = {{75}},
+	Number = {{15}},
+	Month = {{APR}},
+	Abstract = {{We predict the stability of an extended two-
+				 dimensional hydrocarbon on the basis of first-
+				 principles total-energy calculations. The compound 
+				 that we call graphane is a fully saturated 
+				 hydrocarbon derived from a single graphene sheet 
+				 with formula CH. All of the carbon atoms are in
+				 sp(3) hybridization forming a hexagonal network 
+				 and the hydrogen atoms are bonded to carbon on 
+				 both sides of the plane in an alternating manner. 
+				 Graphane is predicted to be stable with a binding 
+				 energy comparable to other hydrocarbons such as 
+				 benzene, cyclohexane, and polyethylene. We discuss 
+				 possible routes for synthesizing graphane and 
+				 potential applications as a hydrogen storage 
+				 material and in two-dimensional electronics.}},
+	Publisher = {{AMERICAN PHYSICAL SOC}},
+	Address = {{ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 
+				USA}},
+	Type = {{Article}},
+	Language = {{English}},
+	Affiliation = {{Sofo, JO (Reprint Author), Penn State Univ, 
+					Dept Phys, University Pk, PA 16802 USA. Penn 	
+					State Univ, Dept Phys, University Pk, PA 16802 
+					USA. Penn State Univ, Mat Res Inst, University 
+					Pk, PA 16802 USA.}},
+	DOI = {{10.1103/PhysRevB.75.153401}},
+	Article-Number = {{153401}},
+	ISSN = {{1098-0121}},
+	Keywords-Plus = {{GRAPHITE; CARBON; INTERCALATION; FLUORIDES; 
+					  1ST-PRINCIPLES; HYDROGENATION; MONOFLUORIDE; 
+					  SIMULATION; NANOTUBES; GRAPHENE}},
+	Research-Areas = {{Physics}},
+	Web-of-Science-Categories  = {{Physics, Condensed Matter}},
+	ResearcherID-Numbers = {{Sofo, Jorge/J-4415-2012 Sofo, Jorge/
+							 B-4344-2014}},
+	ORCID-Numbers = {{Sofo, Jorge/0000-0003-4513-3694
+   					  Sofo, Jorge/0000-0003-4513-3694
+					  Chaudhari, Ajay/0000-0002-4110-4493}},
+	Number-of-Cited-References = {{34}},
+	Times-Cited = {{871}},
+	Usage-Count-Since-2013 = {{300}},
+	Journal-ISO = {{Phys. Rev. B}},
+	Doc-Delivery-Number = {{162GQ}},
+	Unique-ID = {{ISI:000246075300023}},
+}
+
+@article{HussainPathak2012,
+   author = "Hussain, T. and Pathak, B. and Ramzan, M. and Maark, 
+   			 T. A. and Ahuja, R.",
+   title = "Calcium doped graphane as a hydrogen storage material",
+   journal = "Applied Physics Letters",
+   year = "2012",
+   volume = "100",
+   number = "18", 
+   eid = 183902,
+   pages = "",
+   url = "http://scitation.aip.org/content/aip/journal/apl/100/18/10.1063/1.4710526",
+   doi = "http://dx.doi.org/10.1063/1.4710526" 
+}
+
+@article{HussainMaark2012,
+   author = "Hussain, Tanveer and Adit Maark, Tuhina and De Sarkar, 
+   			 Abir and Ahuja, Rajeev",
+   title = "Polylithiated (OLi2) functionalized graphane as a 
+   			potential hydrogen storage material",
+   journal = "Applied Physics Letters",
+   year = "2012",
+   volume = "101",
+   number = "24", 
+   eid = 243902,
+   pages = "",
+   url = "http://scitation.aip.org/content/aip/journal/apl/101/24/10.1063/1.4772208",
+   doi = "http://dx.doi.org/10.1063/1.4772208" 
+}
+
+@article{HussainDeSarkar2014,
+	title = "Functionalization of hydrogenated graphene by 
+			 polylithiated species for efficient hydrogen storage 
+			 ",
+	journal = "International Journal of Hydrogen Energy ",
+	volume = "39",
+	number = "6",
+	pages = "2560 - 2566",
+	year = "2014",
+	note = "",
+	issn = "0360-3199",
+	doi = "http://dx.doi.org/10.1016/j.ijhydene.2013.11.083",
+	url = "http://www.sciencedirect.com/science/article/pii/
+		   S0360319913028462",
+	author = "Tanveer Hussain and Abir De Sarkar and Rajeev Ahuja",
+	keywords = "Hydrogen storage",
+	keywords = "Functionalization",
+	keywords = "Polylithiated",
+	keywords = "Molecular dynamics ",
+	abstract = "Abstract The hydrogen (H2) storage capacity of 
+			    defected graphane (CH) functionalized by 
+			    polylithiated species \{CLi3\} and \{CLi4\} has 
+			    been investigated by means of first-principles \
+			    {DFT\} calculations. The stability and electronic 
+			    structures of these potential \{H2\} storage 
+			    materials have also been studied. The binding of 
+			    these lithium rich species (CLi3, CLi4) to the \{CH
+			    \} sheet has been found to be strong enough to 
+			    avoid clustering. The nature of bonding in C–Li and 
+			    C–C has been revealed by Bader charge analysis. It 
+			    has been found that when both sides of \{CH\} sheet 
+			    are functionalized by polylithiated species, a 
+			    storage capacity of more than 13 wt% can be 
+			    achieved with adsorption energies of \{H2\} in the 
+			    range of 0.25 eV–0.35 eV, which is suitable for an 
+			    efficient \{H2\} storage. "
+}
+
+@article{HussainPathak2011,
+	Author = {Hussain, Tanveer and Pathak, Biswarup and Maark, 
+			  Tuhina Adit and Araujo, Carlos Moyses and Scheicher, 
+			  Ralph H. and Ahuja, Rajeev},
+	Title = {{Ab initio study of lithium-doped graphane for 
+			  hydrogen storage}},
+	Journal = {{EPL}},
+	Year = {{2011}},
+	Volume = {{96}},
+	Number = {{2}},
+	Month = {{OCT}},
+	Abstract = {{Based on the first-principle density functional 
+				 calculations we predict that Li-doped graphane 
+				 (prehydrogenated graphene) can be a potential 
+				 candidate for hydrogen storage. The calculated Li-
+				 binding energy on graphane is significantly higher 
+				 than the Li bulk's cohesive energy ruling out any 
+				 possibility of cluster formations in the Li-doped 
+				 graphane. Our study shows that even with very low 
+				 concentration (5.56\%) of Li doping, the Li-
+				 graphane sheet can achieve a reasonable hydrogen 
+				 storage capacity of 3.23 wt.\%. The van der Waals 
+				 corrected H(2) binding energies fall within the 
+				 range of 0.12-0.29 eV, suitable for practical H(2) 
+				 storage applications. Copyright (C) EPLA, 2011}},
+	Publisher = {{EPL ASSOCIATION, EUROPEAN PHYSICAL SOCIETY}},
+	Address = {{6 RUE DES FRERES LUMIERE, MULHOUSE, 68200, 
+				FRANCE}},
+	Type = {{Article}},
+	Language = {{English}},
+	Affiliation = {{Hussain, T (Reprint Author), Uppsala Univ, Dept 
+					Phys \& Astron, Condense Matter Theory Grp, Box 
+					516, S-75120 Uppsala, Sweden. Hussain, Tanveer; 
+					Pathak, Biswarup; Maark, Tuhina Adit; Araujo, 
+					Carlos Moyses; Scheicher, Ralph H.; Ahuja, 
+					Rajeev, Uppsala Univ, Dept Phys \& Astron, 
+					Condense Matter Theory Grp, S-75120 Uppsala, 
+					Sweden. Ahuja, Rajeev, Royal Inst Technol KTH, 
+					Dept Mat \& Engn, S-10044 Stockholm, Sweden.}},
+	DOI = {{10.1209/0295-5075/96/27013}},
+	Article-Number = {{27013}},
+	ISSN = {{0295-5075}},
+	Keywords-Plus = {{CARBON NANOTUBES}},
+	Research-Areas = {{Physics}},
+	Web-of-Science-Categories  = {{Physics, Multidisciplinary}},
+	Author-Email = {{tanveer.hussain@physics.uu.se}},
+	ResearcherID-Numbers = {{Pathak, Biswarup/F-5827-2011
+							Scheicher, Ralph/G-1740-2012 Araujo, 
+							Moyses/L-6135-2013}},
+	ORCID-Numbers = {{Pathak, Biswarup/0000-0002-9972-9947 
+					  Araujo, Moyses/0000-0001-5192-0016}},
+	Funding-Acknowledgement = {{Higher Education Commission of 
+							   Pakistan; Swedish Institute; Wenner-
+							   Gren foundation; FORMAS}},
+	Funding-Text = {{TH is thankful to the Higher Education 
+					 Commission of Pakistan for the doctoral 
+					 fellowship. TAM and BP are grateful to the 
+					 Swedish Institute and Wenner-Gren foundation, 
+					 respectively, for the postdoctoral grant. RA
+					 acknowledges FORMAS and Wenner-Gren foundation 
+					 for the financial support. SNIC and UPPMAX are 
+					 acknowledged for the computing time.}},
+	Number-of-Cited-References = {{23}},
+	Times-Cited = {{18}},
+	Usage-Count-Since-2013 = {{24}},
+	Journal-ISO = {{EPL}},
+	Doc-Delivery-Number = {{834PJ}},
+	Unique-ID = {{ISI:000295974600036}},
+}
+
+@article{HussainDeSarkar2012,
+	Author = {Hussain, Tanveer and De Sarkar, Abir and Ahuja, 
+			  Rajeev},
+	Title = {{Strain induced lithium functionalized graphane as a 
+			  high capacity hydrogen storage material}},
+	Journal = {{APPLIED PHYSICS LETTERS}},
+	Year = {{2012}},
+	Volume = {{101}},
+	Number = {{10}},
+	Month = {{SEP 3}},
+	Abstract = {{Strain effects on the stability, electronic 
+	structure, and hydrogen storage capacity of lithium-doped 
+	graphane have been investigated by state-of-the-art first 
+	principles density functional theory. Molecular dynamics 
+	simulations have confirmed the stability of Li on graphane 
+	sheet when it is subject to 10\% of tensile strain. Under 
+	biaxial asymmetric strain, the binding energy of Li of graphane 
+	(CH) sheet increases by 52\% with respect to its bulk's 
+	cohesive energy. With 25\% doping concentration of Li on CH 
+	sheet, the gravimetric density of hydrogen storage is found to 
+	reach up to 12.12wt. \%. The adsorption energies of H-2 are 
+	found to be within the range of practical H-2 storage 
+	applications. (C) 2012 American Institute of Physics. 
+	{[}http://dx.doi.org/10.1063/1.4751249]}},
+	Publisher = {{AMER INST PHYSICS}},
+	Address = {{CIRCULATION \& FULFILLMENT DIV, 2 HUNTINGTON 
+				QUADRANGLE, STE 1 N O 1, MELVILLE, NY 11747-4501 	
+				USA}},
+	Type = {{Article}},
+	Language = {{English}},
+	Affiliation = {{Hussain, T (Reprint Author), Uppsala Univ, Dept 
+				    Phys \& Astron, Condensed Matter Theory Grp, 
+				    Box 516, S-75120 Uppsala, Sweden. Hussain, 
+				    Tanveer; De Sarkar, Abir; Ahuja, Rajeev, 
+				    Uppsala Univ, Dept Phys \& Astron, Condensed 
+				    Matter Theory Grp, S-75120 Uppsala, Sweden. De 
+				    Sarkar, Abir; Ahuja, Rajeev, Royal Inst Technol 
+				    KTH, Dept Mat \& Engn, S-10044 Stockholm, 
+				    Sweden.}},
+	DOI = {{10.1063/1.4751249}},
+	Article-Number = {{103907}},
+	ISSN = {{0003-6951}},
+	Keywords-Plus = {{AB-INITIO; GRAPHENE}},
+	Research-Areas = {{Physics}},
+	Web-of-Science-Categories  = {{Physics, Applied}},
+	Author-Email = 
+		{{tanveer.hussain@physics.uu.seabirdesarkar@gmail.com}},
+	Funding-Acknowledgement = {{higher education commission of 
+		Pakistan; Wenner-Gren Foundation; FORMAS; SWECO}},
+	Funding-Text = {{T.H. is thankful to higher education 
+					 commission of Pakistan for doctoral 
+					 fellowship. A.D.S. is grateful to the Wenner-
+					 Gren Foundation for postdoctoral Fellowship. 
+					 R.A. acknowledges FORMAS, SWECO, and Wenner-
+					 Gren Foundation for financial support. SNIC 
+					 and UPPMAX are acknowledged for computing 
+					 time.}},
+	Number-of-Cited-References = {{29}},
+	Times-Cited = {{18}},
+	Usage-Count-Since-2013 = {{43}},
+	Journal-ISO = {{Appl. Phys. Lett.}},
+	Doc-Delivery-Number = {{010CT}},
+	Unique-ID = {{ISI:000309072800091}},
+}
+
+@article{LeeWei2008,
+	ISSN = {00368075, 10959203},
+	URL = {http://www.jstor.org/stable/20054532},
+	abstract = {We measured the elastic properties and intrinsic 
+				breaking strength of free-standing monolayer 
+				graphene membranes by nanoindentation in an atomic 
+				force microscope. The force-displacement behavior 
+				is interpreted within a framework of nonlinear 
+				elastic stress-strain response, and yields second- 
+				and third-order elastic stiffnesses of 340 mewtons 
+				per meter (N $\text{m}^{-1}$ ) and --690 N $
+				\text{m}^{-1}$ , respectively. The breaking 
+				strength is 42 N $\text{m}^{-1}$ , and represents 
+				the intrinsic strength of a defect-free sheet. 
+				These quantites correspond to a Young's modulus of 
+				E = 1.0 terapascals, third-order elastic stiffness 
+				of D = -2.0 terapascals, and intrinsic strength of 
+				$\sigma _{\text{int}}=130$ gigapascals for bulk 
+				graphite. These experiments establish graphene as 
+				the strongest material ever measured, and show that 
+				atomically perfect nanoscale meterials can be 
+				mechanically tested to deformations well beyond the 
+				linear regime.},
+	author = {Changgu Lee and Xiaoding Wei and Jeffrey W. Kysar and 
+			  James Hone},
+	journal = {Science},
+	number = {5887},
+	pages = {385-388},
+	publisher = {American Association for the Advancement of 
+				 Science},
+	title = {Measurement of the Elastic Properties and Intrinsic 
+			 Strength of Monolayer Graphene},
+	volume = {321},
+	year = {2008}
+}
+
+@article{Castro2009,
+  	title = {The electronic properties of graphene},
+	author = {Castro Neto, A. H. and Guinea, F. and Peres, N. M. R. 
+			  and Novoselov, K. S. and Geim, A. K.},
+  	journal = {Rev. Mod. Phys.},
+  	volume = {81},
+  	issue = {1},
+	pages = {109--162},
+	numpages = {0},
+	year = {2009},
+	month = {Jan},
+	publisher = {American Physical Society},
+	doi = {10.1103/RevModPhys.81.109},
+	url = {http://link.aps.org/doi/10.1103/RevModPhys.81.109}
+}
+
+@article{NovoselovGeim2004,
+	Abstract = {We describe monocrystalline graphitic films, which 
+				are a few atoms thick but are nonetheless stable 
+				under ambient conditions, metallic, and of 
+				remarkably high quality. The films are found to be 
+				a two-dimensional semimetal with a tiny overlap 
+				between valence and conductance bands, and they 
+				exhibit a strong ambipolar electric field effect 
+				such that electrons and holes in concentrations up 
+				to 10[sup 13] per square centimeter and with room-
+				temperature mobilities of ∼ 10,000 square 
+				centimeters per volt-second can be induced by 
+				applying gate voltage. [ABSTRACT FROM AUTHOR]},
+	Author = {Novoselov, K. S. and Geim, A. K. and Morozov, S. V. 
+			  and Jiang, D. and Zhang, Y. and Dubonos, S. V. and 
+			  Crigorieva, I. V. and Firsov, A. A.},
+	ISSN = {00368075},
+	Journal = {Science},
+	Keywords = {GRAPHITE, THIN films, ELECTRIC fields, ELECTRONS, 	
+			    ENERGY bands, METALS},
+	Number = {5696},
+	Pages = {666 - 669},
+	Title = {Electric Field Effect in Atomically Thin Carbon 	
+			 Films.},
+	Volume = {306},
+	URL = {https://www-lib-byu-edu.erl.lib.byu.edu/cgi-bin/	
+		   remoteauth.pl?url=http://
+		   search.ebscohost.com.erl.lib.byu.edu/login.aspx?
+		   direct=true&db=iih&AN=14884266&site=ehost-
+		   live&scope=site},
+	Year = {2004},
+}
+
+@article{Pumera2011,
+	Author = {Pumera, Martin},
+	Date-Added = {2016-01-26 01:21:28 +0000},
+	Date-Modified = {2016-01-26 01:21:28 +0000},
+	Doi = {10.1039/C0EE00295J},
+	Isbn = {1754-5692},
+	Journal = {Energy \& Environmental Science},
+	Journal1 = {Energy Environ. Sci.},
+	M3 = {10.1039/C0EE00295J},
+	N2 = {There is enormous interest in the use of graphene-based 
+		  materials for energy storage. This article discusses the 
+		  progress that has been accomplished in the development of 
+		  chemical, electrochemical, and electrical energy storage 
+		  systems using graphene. We summarize the theoretical and 
+		  experimental work on graphene-based hydrogen storage 
+		  systems, lithium batteries, and supercapacitors. Even 
+		  though the research on the use of graphene for energy 
+		  storage began very recently, the explosive growth of the 
+		  research conducted in this area makes this minireview 
+		  timely.},
+	Number = {3},
+	Pages = {668--674},
+	Publisher = {The Royal Society of Chemistry},
+	Title = {Graphene-based nanomaterials for energy storage},
+	Ty = {JOUR},
+	Url = {http://dx.doi.org/10.1039/C0EE00295J},
+	Volume = {4},
+	Year = {2011},
+	Bdsk-Url-1 = {http://dx.doi.org/10.1039/C0EE00295J}
+}
+
+@article{Beheshti20111561,
+	title = "A first-principles study of calcium-decorated, boron-doped graphene for high capacity hydrogen storage ",
+	journal = "Carbon ",
+	volume = "49",
+	number = "5",
+	pages = "1561 - 1567",
+	year = "2011",
+	note = "",
+	issn = "0008-6223",
+	doi = "http://dx.doi.org/10.1016/j.carbon.2010.12.023",
+	url = "http://www.sciencedirect.com/science/article/pii/S0008622310009024",
+	author = "Elham Beheshti and Alireza Nojeh and Peyman Servati",
+	abstract = "Hydrogen adsorption and storage on calcium-
+		decorated, boron-doped graphene was explored using density 
+		functional theory simulations based on local density 
+		approximation and generalized gradient approximation 
+		methods. The clustering problem for calcium-decorated 
+		graphene was investigated and it was shown that individual 
+		calcium atoms are not stable on pure graphene, and 
+		formation of aggregates is favorable. Substitutional boron 
+		doping can eliminate the clustering problem for Ca atoms on 
+		graphene. Up to four hydrogen molecules can stably bind to 
+		a Ca atom on a graphene plane with substitutional doping of 
+		a single boron atom. The average binding energy of ∼0.4 eV/
+		H2 is in the range that permits \{H2\} recycling at ambient 
+		conditions. Two binding mechanisms contribute to the 
+		adsorption of \{H2\} molecules: polarization of the \{H2\} 
+		molecule under the electric field produced by the Ca–
+		graphene dipole, and hybridization of the 3d orbitals of Ca 
+		with the σ orbitals of H2. Double-sided Ca-decorated 
+		graphene doped with individual boron atoms of 12 at.% can 
+		theoretically reach a gravimetric capacity of 8.38 wt.% 
+		hydrogen. "
+}
+
+% ---------------------------------------------------------
+%	For VASP
+% ---------------------------------------------------------
+
+@article{KresseMDLiqMetals,
+	title = "Ab initio molecular dynamics for liquid metals ",
+	journal = "Journal of Non-Crystalline Solids ",
+	volume = "192–193",
+	number = "",
+	pages = "222 - 229",
+	year = "1995",
+	note = "Structure of Non-Crystalline Materials 6 ",
+	issn = "0022-3093",
+	doi = "http://dx.doi.org/10.1016/0022-3093(95)00355-X",
+	url = "http://www.sciencedirect.com/science/article/pii/002230939500355X",
+	author = "G. Kresse",
+	abstract = "In recent years, ab initio molecular dynamics (MD) 
+		techniques have made a profound impact on the investigation 
+		of the structure of the electronic and dynamic properties 
+		of liquid and amorphous materials. In this paper, recent 
+		developments in this field are reviewed and it is shown 
+		that the exact calculation of the electronic groundstate at 
+		each \{MD\} timestep is feasible using modern iterative 
+		matrix diagonalization algorithms. Together with the use of 
+		ultrasoft pseudopotentials, ab initio \{MD\} simulations 
+		can be extended to open-shell transition metals with a high 
+		density of states at the Fermi-level. The technique is 
+		applied to a number of interesting cases: (a) liquid simple 
+		metals (Li, Na, Al, Ge), (b) liquid transition metals (Cu, 
+		V), and (c) the transition from a liquid metal to an 
+		amorphous semiconductor by the rapid quenching of Ge. "
+}
+
+@article{KresseMDGermanium,
+	title = {\textit{Ab initio}   molecular-dynamics simulation of the liquid-metal\char21amorphous-semiconductor transition in germanium},
+	author = {Kresse, G. and Hafner, J.},
+  	journal = {Phys. Rev. B},
+  	volume = {49},
+	issue = {20},
+	pages = {14251--14269},
+	numpages = {0},
+	year = {1994},
+	month = {May},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevB.49.14251},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.49.14251}
+}
+
+@article{KresseEfficiencyPWBasis,
+	title = "Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set ",
+	journal = "Computational Materials Science ",
+	volume = "6",
+	number = "1",
+	pages = "15 - 50",
+	year = "1996",
+	note = "",
+	issn = "0927-0256",
+	doi = "http://dx.doi.org/10.1016/0927-0256(96)00008-0",
+	url = "http://www.sciencedirect.com/science/article/pii/0927025696000080",
+	author = "G. Kresse and J. Furthmüller",
+	abstract = "We present a detailed description and comparison of 
+		algorithms for performing ab-initio quantum-mechanical 
+		calculations using pseudopotentials and a plane-wave basis 
+		set. We will discuss: (a) partial occupancies within the 
+		framework of the linear tetrahedron method and the finite 
+		temperature density-functional theory, (b) iterative 
+		methods for the diagonalization of the Kohn-Sham 
+		Hamiltonian and a discussion of an efficient iterative 
+		method based on the ideas of Pulay's residual minimization, 
+		which is close to an order Natoms2 scaling even for 
+		relatively large systems, (c) efficient Broyden-like and 
+		Pulay-like mixing methods for the charge density including 
+		a new special ‘preconditioning’ optimized for a plane-wave 
+		basis set, (d) conjugate gradient methods for minimizing 
+		the electronic free energy with respect to all degrees of 
+		freedom simultaneously. We have implemented these 
+		algorithms within a powerful package called \{VAMP\} 
+		(Vienna ab-initio molecular-dynamics package). The program 
+		and the techniques have been used successfully for a large 
+		number of different systems (liquid and amorphous 
+		semiconductors, liquid simple and transition metals, 
+		metallic and semi-conducting surfaces, phonons in simple 
+		metals, transition metals and semiconductors) and turned 
+		out to be very reliable. "
+}
+
+@article{KresseIterativeSchemes,
+	title = {Efficient iterative schemes for \textit{ab initio}   total-energy calculations using a plane-wave basis set},
+	author = {Kresse, G. and Furthmüller, J.},
+	journal = {Phys. Rev. B},
+	volume = {54},
+	issue = {16},
+	pages = {11169--11186},
+	numpages = {0},
+	year = {1996},
+	month = {Oct},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevB.54.11169},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.54.11169}
+}
+
+@article{PerdewGGASimple,
+	title = {Generalized Gradient Approximation Made Simple},
+	author = {Perdew, John P. and Burke, Kieron and Ernzerhof, Matthias},
+	journal = {Phys. Rev. Lett.},
+	volume = {77},
+	issue = {18},
+	pages = {3865--3868},
+	numpages = {0},
+	year = {1996},
+	month = {Oct},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevLett.77.3865},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.77.3865}
+}
+
+@article{PerdewGGAErrata,
+	title = {Generalized Gradient Approximation Made Simple [Phys. Rev. Lett. 77, 3865 (1996)]},
+	author = {Perdew, John P. and Burke, Kieron and Ernzerhof, Matthias},
+	journal = {Phys. Rev. Lett.},
+	volume = {78},
+	issue = {7},
+	pages = {1396--1396},
+	numpages = {0},
+	year = {1997},
+	month = {Feb},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevLett.78.1396},
+	url = {http://link.aps.org/doi/10.1103/PhysRevLett.78.1396}
+}
+
+% ---------------------------------------------------------
+%	Cluster Expansion
+% ---------------------------------------------------------
+
+@article{LerchUNCLE,
+  author={D Lerch and O Wieckhorst and G L W Hart and R W Forcade 
+  		  and S Müller},
+  title={UNCLE: a code for constructing cluster expansions for 
+  		 arbitrary lattices with minimal user-input},
+  journal={Modelling and Simulation in Materials Science and 
+  		   Engineering},
+  volume={17},
+  number={5},
+  pages={055003},
+  url={http://stacks.iop.org/0965-0393/17/i=5/a=055003},
+  year={2009},
+  abstract={We present a new implementation of the cluster 
+  			expansion formalism. The new code, UNiversal CLuster 
+  			Expansion (UNCLE), consolidates recent advances in the 
+  			methodology and leverages one new development in the 
+  			formalism itself. As a core goal, the package reduces 
+  			the need for user intervention, automating the method 
+  			to reduce human error and judgment. The package extends 
+  			standard cluster expansion formalism to the more 
+  			complicated cases of ternary compounds, as well as 
+  			surfaces, including adsorption and inequivalent sites.}
+}
+
+@article{HartDerivativeStructs,
+	title = {Generating derivative structures from multilattices: Algorithm and application to hcp alloys},
+	author = {Hart, Gus L. W. and Forcade, Rodney W.},
+	journal = {Phys. Rev. B},
+	volume = {80},
+	issue = {1},
+	pages = {014120},
+	numpages = {8},
+	year = {2009},
+	month = {Jul},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevB.80.014120},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.80.014120}
+}
+
+@article{NelsonCE,
+	title = {Cluster expansion made easy with Bayesian compressive sensing},
+	author = {Nelson, Lance J. and Ozoli\ifmmode \mbox{\c{n}}\else \c{n}\fi{}\ifmmode \check{s}\else \v{s}\fi{}, Vidvuds and Reese, C. Shane and Zhou, Fei and Hart, Gus L. W.},
+	journal = {Phys. Rev. B},
+	volume = {88},
+	issue = {15},
+	pages = {155105},
+	numpages = {10},
+	year = {2013},
+	month = {Oct},
+	publisher = {American Physical Society},
+	doi = {10.1103/PhysRevB.88.155105},
+	url = {http://link.aps.org/doi/10.1103/PhysRevB.88.155105}
+}
+
+
+% ---------------------------------------------------------
+%	EXAMPLES
+% ---------------------------------------------------------
+
+@article{Smith1970,
+  author =  {R. L. Smith},
+  title =   {The Velocities of Light},
+  journal = {Am. J. Phys.},
+  year =    {1970},
+  volume =  {38},
+  pages =   {978-983},
+}
+
+@book{AIP1990,
+  author =    {AIP},
+  editor =    {},
+  title =     {AIP Style Manual},
+  publisher = {American Institute of Physics},
+  year =      {1990},
+  volume =    {},
+  number =    {},
+  series =    {},
+  address =   {Woodbury, NY},
+  edition =   {4th},
+  month =     {},
+}
+
+@article{Peatross2000,
+  author =  {J. Peatross and S. A. Glasgow and M. Ware},
+  title =   {Average energy flow of optical pulses dispersive media},
+  journal = {Phys. Rev. Lett.},
+  year =    {2000},
+  volume =  {84},
+  number =  {},
+  pages =   {2370-2373},
+  month =   {},
+}
+
+@book{Jackson1998,
+  author = {J. D. Jackson},
+  editor = {},
+  title = {Classical Electrodynamics},
+  publisher = {Wiley},
+  year = {1998},
+  volume = {},
+  number = {},
+  series = {},
+  address = {New York},
+  edition = {3rd},
+  month = {},
+  pages = {23},
+}
+
+@book{Born1980,
+  author =    {M. Born and E. Wolf},
+  editor =    {},
+  title =     {Principles of Optics},
+  publisher = {Wiley},
+  year =      {1980},
+  volume =    {},
+  number =    {},
+  series =    {},
+  address =   {Oxford},
+  edition =   {6th},
+  month =     {},
+  pages =     {20-23},
+}
+
+@inproceedings{Peatross1996,
+  author =       {J. Peatross and J. Zhou and I. Christov and A. Rundquist and M. M. Murnane and H. C. Kapteyn},
+  title =        {High-order harmonic generation with a 25 femtosecond laser pulse},
+  booktitle =    {Proceedings of 4th Conference on Super Intense Laser-Atom Physics (SILAP IV, Moscow, Russia, August 1995)},
+  year =         {1996},
+  editor =       {H.G. Muller and M. V. Fedorov},
+  volume =       {13},
+  number =       {},
+  series =       {High Technology},
+  pages =        {455-466},
+  address =      {Dordrecht/Boston/London},
+  month =        {August},
+  organization = {},
+  publisher =    {Kluwer Academic Publishers},
+}
+
+% This is an example of how to enter a presentation.  Its not how the article type was designed, but works fine.
+@article{Peatross1999,
+  author =  {J. Peatross and W. E. Dibble and S. A. Glasgow and M. Ware},
+  title =   {Energy Propagation of Broadband Light Pulses in Dispersive Systems},
+  journal = {presented at the 15th Annual Interdisciplinary Laser Science Conference (OSA/ILS XV),},
+  year =    {Santa Clara, CA, Sept. 1999}
+}
+
+@article{Ware,
+  author =  {M. Ware and W. E. Dibble and S. A. Glasgow, and J. Peatross},
+  title =   {Energy flow in angularly dispersive optical systems},
+  year =    {to be published},
+}
+
+% This is an example of how to enter a thesis.  Its not how the article type was designed, but works fine.
+@article{Peatross1993,
+  author =  {J. Peatross},
+  title =   {The far-field angular distribution of high-order harmonics produced light scattering from a thin low-density gas target},
+  journal = {Ph.D. dissertation},
+  year =    {University Rochester, Rochester, N.Y., 1993}
+}
+
+% This is an example of how to enter a web page.  Its not how the article type was designed, but works fine.
+@article{Intel,
+  author =  {K. David},
+  title =   {Intel's EUV lithography process line},
+  journal = {\href{http://www.intel.com/technology/silicon/lithography.htm}{\url{http://www.intel.com/technology/silicon/lithography.htm}}},
+  year =    {Accessed April 15, 2006}
+}
+
+% This is an example of how to enter a private communication.  Its not how the article type was designed, but works fine.
+@article{Peatross,
+  author = {J. Peatross},
+  journal = {Private communication},
+  year    = {2008},
+
+}
+
+@article{Mermin1992,
+  author  = {N. D. Mermin},
+  title   = {What's wrong with those talks?},
+  journal = {Physics Today},
+  volume  = {45},
+  page    = {9},
+  year    = {1992},
+}

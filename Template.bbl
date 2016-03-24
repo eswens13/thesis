@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{NovoselovGeim2004}
+K.~S. Novoselov, A.~K. Geim, S.~V. Morozov, D. Jiang, Y. Zhang, S.~V. Dubonos,
+  I.~V. Crigorieva, and A.~A. Firsov, ``Electric Field Effect in Atomically
+  Thin Carbon Films.,'' Science {\bf 306,} 666 -- 669 (2004).
+
+\bibitem{LeeWei2008}
+C. Lee, X. Wei, J.~W. Kysar, and J. Hone, ``Measurement of the Elastic
+  Properties and Intrinsic Strength of Monolayer Graphene,'' Science {\bf 321,}
+  385--388 (2008).
+
+\bibitem{Pumera2011}
+M. Pumera, ``Graphene-based nanomaterials for energy storage,'' Energy \&
+  Environmental Science {\bf 4,} 668--674 (2011).
+
+\bibitem{SofoChaudhari2007}
+J.~O. Sofo, A.~S. Chaudhari, and G.~D. Barber, ``{Graphane: A two-dimensional
+  hydrocarbon},'' {Physical Review B} {75} ({2007}).
+
+\bibitem{EliasNair2009}
+D.~C. Elias {\it et~al.}, ``Control of Graphene's Properties by Reversible
+  Hydrogenation: Evidence for Graphane,'' Science {\bf 323,} 610--613 (2009).
+
+\bibitem{HussainPathak2012}
+T. Hussain, B. Pathak, M. Ramzan, T.~A. Maark, and R. Ahuja, ``Calcium doped
+  graphane as a hydrogen storage material,'' Applied Physics Letters 100
+  (2012).
+
+\bibitem{HussainDeSarkar2012}
+T. Hussain, A. De~Sarkar, and R. Ahuja, ``{Strain induced lithium
+  functionalized graphane as a high capacity hydrogen storage material},''
+  {APPLIED PHYSICS LETTERS} {101} ({2012}).
+
+\bibitem{HussainMaark2012}
+T. Hussain, T. Adit~Maark, A. De~Sarkar, and R. Ahuja, ``Polylithiated (OLi2)
+  functionalized graphane as a potential hydrogen storage material,'' Applied
+  Physics Letters 101 (2012).
+
+\bibitem{HussainDeSarkar2014}
+T. Hussain, A.~D. Sarkar, and R. Ahuja, ``Functionalization of hydrogenated
+  graphene by polylithiated species for efficient hydrogen storage,''
+  International Journal of Hydrogen Energy {\bf 39,} 2560 -- 2566 (2014).
+
+\bibitem{HussainPathak2011}
+T. Hussain, B. Pathak, T.~A. Maark, C.~M. Araujo, R.~H. Scheicher, and R.
+  Ahuja, ``{Ab initio study of lithium-doped graphane for hydrogen storage},''
+  {EPL} {96} ({2011}).
+
+\bibitem{LerchUNCLE}
+D. Lerch, O. Wieckhorst, G.~L.~W. Hart, R.~W. Forcade, and S. Müller, ``UNCLE:
+  a code for constructing cluster expansions for arbitrary lattices with
+  minimal user-input,'' Modelling and Simulation in Materials Science and
+  Engineering {\bf 17,} 055003 (2009).
+
+\bibitem{KresseMDLiqMetals}
+G. Kresse, ``Ab initio molecular dynamics for liquid metals,'' Journal of
+  Non-Crystalline Solids {\bf 192–193,} 222 -- 229 (1995), structure of
+  Non-Crystalline Materials 6.
+
+\bibitem{KresseMDGermanium}
+G. Kresse and J. Hafner, ``\textit{Ab initio} molecular-dynamics simulation of
+  the liquid-metal\char21amorphous-semiconductor transition in germanium,''
+  Phys. Rev. B {\bf 49,} 14251--14269 (1994).
+
+\bibitem{KresseEfficiencyPWBasis}
+G. Kresse and J. Furthmüller, ``Efficiency of ab-initio total energy
+  calculations for metals and semiconductors using a plane-wave basis set,''
+  Computational Materials Science {\bf 6,} 15 -- 50 (1996).
+
+\bibitem{KresseIterativeSchemes}
+G. Kresse and J. Furthmüller, ``Efficient iterative schemes for \textit{ab
+  initio} total-energy calculations using a plane-wave basis set,'' Phys. Rev.
+  B {\bf 54,} 11169--11186 (1996).
+
+\bibitem{NelsonCE}
+L.~J. Nelson, V. Ozoli\ifmmode \mbox{\c{n}}\else
+  \c{n}\fi{}\ifmmode~\check{s}\else \v{s}\fi{}, C.~S. Reese, F. Zhou, and
+  G.~L.~W. Hart, ``Cluster expansion made easy with Bayesian compressive
+  sensing,'' Phys. Rev. B {\bf 88,} 155105 (2013).
+
+\end{thebibliography}

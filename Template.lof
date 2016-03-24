@@ -1,0 +1,9 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Diagram of Graphane Structure\relax }}{3}{figure.caption.5}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Examples of the different computational unit cells used in structure enumeration. The cells are defined by the periodic black lines in the drawings. The blue circles represent carbon atoms in the graphene lattice. Yellow and red circles represent hydrogen and calcium adatoms respectively. A thick border around an adatom signifies that the atom is below the plane. Note that the structure in \textit {(d)} is a two-dimensional representation of the same structure pictured in Figure \ref {fig:GraphaneDiagram}.\relax }}{5}{figure.caption.6}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces A high level map of the iteration process. We start with a randomly selected set of structures. We run the structures through atomic and electronic relaxation routines and use that data to create a predictive model for all possible structures. We then assign each structure a priority and choose a set of highest priority to run back through the loop.\relax }}{10}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A plot of formation energy vs. planar binding energy for volume 9 double-sided structures. Each blue dot represents a particular structure. Ignoring the tail of "graphane-like" structures at the far left side of the plot, note the large gap in the region of strong FE and PBE where very desirable structures would appear.\relax }}{13}{figure.caption.8}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Structure S1, the lowest energy structure in the single-sided search that contains calcium atoms and does not suffer from calcium clustering.\relax }}{14}{figure.caption.9}
+\addvspace {10\p@ }

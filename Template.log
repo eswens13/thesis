@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  24 MAR 2016 13:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  1 APR 2016 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -464,27 +464,27 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 ) (./Template.aux)
 \openout1 = `Template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 42.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 57.
  (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
-LaTeX Font Info:    ... okay on input line 42.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 42.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 57.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -530,7 +530,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 142.
 )
-Package hyperref Info: Link coloring ON on input line 42.
+Package hyperref Info: Link coloring ON on input line 57.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -540,17 +540,17 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count126
 )
-LaTeX Info: Redefining \ref on input line 42.
-LaTeX Info: Redefining \pageref on input line 42.
-LaTeX Info: Redefining \nameref on input line 42.
+LaTeX Info: Redefining \ref on input line 57.
+LaTeX Info: Redefining \pageref on input line 57.
+LaTeX Info: Redefining \nameref on input line 57.
 
 (./Template.out) (./Template.out)
 \@outlinefile=\write5
 \openout5 = `Template.out'.
 
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 42.
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 49.
+LaTeX Info: Redefining \selectfont on input line 57.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 64.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -558,47 +558,47 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 64
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 64
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 64
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 49
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 64
 .
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 49.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 64.
 
 (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 49.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 64.
  [2
 
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 52.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 67.
 
 (./Template.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
@@ -622,101 +622,178 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
 
 
 ]
+Chapter 1.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 79.
+[1
+
+
+] <graphane_diagram_cropped.pdf, id=169, 481.32079pt x 256.80522pt>
+File: graphane_diagram_cropped.pdf Graphic file (type pdf)
+
+<use graphane_diagram_cropped.pdf>
+Package pdftex.def Info: graphane_diagram_cropped.pdf used on input line 139.
+(pdftex.def)             Requested size: 223.13647pt x 119.05267pt.
+
+<graphane_diagram_top.pdf, id=170, 524.5963pt x 293.52602pt>
+File: graphane_diagram_top.pdf Graphic file (type pdf)
+
+<use graphane_diagram_top.pdf>
+Package pdftex.def Info: graphane_diagram_top.pdf used on input line 144.
+(pdftex.def)             Requested size: 223.13647pt x 124.84767pt.
+
 
 Package Fancyhdr Warning: \headheight is too small (14.45377pt): 
  Make it at least 14.49998pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[5]
-Chapter 1.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 64.
-[1
+[2]
+Overfull \hbox (0.19353pt too wide) in paragraph at lines 173--180
+[]\T1/ptm/m/n/12 Computational work has al-ready been per-formed ex-am-in-ing c
+al-cium and lithium as the adatoms
+ []
 
-
-] <graphane_diagram_cropped.pdf, id=174, 481.32079pt x 256.80522pt>
-File: graphane_diagram_cropped.pdf Graphic file (type pdf)
-
-<use graphane_diagram_cropped.pdf>
-Package pdftex.def Info: graphane_diagram_cropped.pdf used on input line 124.
-(pdftex.def)             Requested size: 223.13647pt x 119.05267pt.
-
-<graphane_diagram_top.pdf, id=175, 524.5963pt x 293.52602pt>
-File: graphane_diagram_top.pdf Graphic file (type pdf)
-
-<use graphane_diagram_top.pdf>
-Package pdftex.def Info: graphane_diagram_top.pdf used on input line 129.
-(pdftex.def)             Requested size: 223.13647pt x 124.84767pt.
- [2] [3 <./graphane_diagram_cropped.pdf> <./graphane_diagram_top.pdf, page is r
-otated 180 degrees>]
-<unit_cell_plots/77.png, id=224, 361.35pt x 361.35pt>
+[3 <./graphane_diagram_cropped.pdf> <./graphane_diagram_top.pdf, page is rotate
+d 180 degrees>] <unit_cell_plots/77.png, id=221, 361.35pt x 361.35pt>
 File: unit_cell_plots/77.png Graphic file (type png)
 
 <use unit_cell_plots/77.png>
-Package pdftex.def Info: unit_cell_plots/77.png used on input line 205.
+Package pdftex.def Info: unit_cell_plots/77.png used on input line 217.
 (pdftex.def)             Requested size: 223.13647pt x 223.13594pt.
 
-<unit_cell_plots/96.png, id=226, 361.35pt x 361.35pt>
+<unit_cell_plots/96.png, id=223, 361.35pt x 361.35pt>
 File: unit_cell_plots/96.png Graphic file (type png)
 
 <use unit_cell_plots/96.png>
-Package pdftex.def Info: unit_cell_plots/96.png used on input line 210.
+Package pdftex.def Info: unit_cell_plots/96.png used on input line 222.
 (pdftex.def)             Requested size: 223.13647pt x 223.13594pt.
 
-<unit_cell_plots/849.png, id=227, 361.35pt x 361.35pt>
+<unit_cell_plots/849.png, id=224, 361.35pt x 361.35pt>
 File: unit_cell_plots/849.png Graphic file (type png)
 
 <use unit_cell_plots/849.png>
-Package pdftex.def Info: unit_cell_plots/849.png used on input line 216.
+Package pdftex.def Info: unit_cell_plots/849.png used on input line 228.
 (pdftex.def)             Requested size: 223.13647pt x 223.13594pt.
 
-<unit_cell_plots/11130.png, id=228, 361.35pt x 361.35pt>
+<unit_cell_plots/11130.png, id=225, 361.35pt x 361.35pt>
 File: unit_cell_plots/11130.png Graphic file (type png)
 
 <use unit_cell_plots/11130.png>
-Package pdftex.def Info: unit_cell_plots/11130.png used on input line 221.
+Package pdftex.def Info: unit_cell_plots/11130.png used on input line 233.
 (pdftex.def)             Requested size: 223.13647pt x 223.13594pt.
  [4] [5 <./unit_cell_plots/77.png> <./unit_cell_plots/96.png> <./unit_cell_plot
 s/849.png> <./unit_cell_plots/11130.png>]
 Chapter 2.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 252.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 264.
 [6
 
-] [7] [8] <Erik_Swenson_Schematic.pdf, id=272, 368.57701pt x 180.675pt>
+] [7] [8] <Erik_Swenson_Schematic.pdf, id=268, 368.57701pt x 180.675pt>
 File: Erik_Swenson_Schematic.pdf Graphic file (type pdf)
 
 <use Erik_Swenson_Schematic.pdf>
-Package pdftex.def Info: Erik_Swenson_Schematic.pdf used on input line 400.
+Package pdftex.def Info: Erik_Swenson_Schematic.pdf used on input line 412.
 (pdftex.def)             Requested size: 368.5761pt x 180.67455pt.
  [9] [10 <./Erik_Swenson_Schematic.pdf>]
 Chapter 3.
 [11
 
-] <FEvsPBE_2.pdf, id=303, 510.90115pt x 400.04657pt>
-File: FEvsPBE_2.pdf Graphic file (type pdf)
- <use FEvsPBE_2.pdf>
-Package pdftex.def Info: FEvsPBE_2.pdf used on input line 500.
-(pdftex.def)             Requested size: 305.33788pt x 239.09584pt.
+] <bin_both_FEvsplanarBE_1.png, id=299, 578.16pt x 433.62pt>
+File: bin_both_FEvsplanarBE_1.png Graphic file (type png)
 
-[12] [13 <./FEvsPBE_2.pdf>] <212.png, id=329, 361.35pt x 361.35pt>
-File: 212.png Graphic file (type png)
+<use bin_both_FEvsplanarBE_1.png>
+Package pdftex.def Info: bin_both_FEvsplanarBE_1.png used on input line 521.
+(pdftex.def)             Requested size: 281.85585pt x 211.39055pt.
+ [12]
+<bin_top_FE_CC-exp(atoms0-1)_1.pdf, id=309, 471.93628pt x 393.45955pt>
+File: bin_top_FE_CC-exp(atoms0-1)_1.pdf Graphic file (type pdf)
 
-<use 212.png>
-Package pdftex.def Info: 212.png used on input line 523.
-(pdftex.def)             Requested size: 234.87749pt x 234.88023pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 534.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 534.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 534.
- [14 <./212.png>] [15] [16]
-Appendix A.
-[17
+<use bin_top_FE_CC-exp(atoms0-1)_1.pdf>
+Package pdftex.def Info: bin_top_FE_CC-exp(atoms0-1)_1.pdf used on input line 5
+40.
+(pdftex.def)             Requested size: 230.18251pt x 191.90831pt.
 
-] (./Template.bbl [18
+<bin_top_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf, id=310, 471.2005pt x 392.71638pt>
+File: bin_top_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf Graphic file (type pdf)
+
+<use bin_top_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf>
+Package pdftex.def Info: bin_top_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf used on input
+ line 547.
+(pdftex.def)             Requested size: 230.18251pt x 191.84546pt.
+ [13 <./bin_both_FEvsplanarBE_1.png>] [14 <./bin_top_FE_CC-exp(atoms0-1)_1.pdf>
+ <./bin_top_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf>] <non_clustering.pdf, id=346, 524
+.66914pt x 122.82277pt>
+File: non_clustering.pdf Graphic file (type pdf)
+
+<use non_clustering.pdf>
+Package pdftex.def Info: non_clustering.pdf used on input line 570.
+(pdftex.def)             Requested size: 211.3883pt x 49.48431pt.
+
+<clustering_example.pdf, id=347, 581.22302pt x 186.00934pt>
+File: clustering_example.pdf Graphic file (type pdf)
+
+<use clustering_example.pdf>
+Package pdftex.def Info: clustering_example.pdf used on input line 576.
+(pdftex.def)             Requested size: 211.3883pt x 67.65016pt.
+
+<bin_top_222_struct.pdf, id=349, 606.89087pt x 163.72197pt>
+File: bin_top_222_struct.pdf Graphic file (type pdf)
+
+<use bin_top_222_struct.pdf>
+Package pdftex.def Info: bin_top_222_struct.pdf used on input line 594.
+(pdftex.def)             Requested size: 281.85585pt x 76.03749pt.
+ [15 <./non_clustering.pdf, page is rotated 90 degrees> <./clustering_example.p
+df, page is rotated 90 degrees>]
+<bin_top_FE_CC-exp(atoms0-1)_1_arrow.pdf, id=376, 471.50127pt x 394.45628pt>
+File: bin_top_FE_CC-exp(atoms0-1)_1_arrow.pdf Graphic file (type pdf)
+
+<use bin_top_FE_CC-exp(atoms0-1)_1_arrow.pdf>
+Package pdftex.def Info: bin_top_FE_CC-exp(atoms0-1)_1_arrow.pdf used on input 
+line 621.
+(pdftex.def)             Requested size: 281.85585pt x 235.79683pt.
+ [16 <./bin_top_222_struct.pdf, page is rotated 90 degrees>] [17 <./bin_top_FE_
+CC-exp(atoms0-1)_1_arrow.pdf>]
+<bin_both_300_struct.pdf, id=415, 590.01097pt x 223.95149pt>
+File: bin_both_300_struct.pdf Graphic file (type pdf)
+
+<use bin_both_300_struct.pdf>
+Package pdftex.def Info: bin_both_300_struct.pdf used on input line 645.
+(pdftex.def)             Requested size: 281.85585pt x 106.9829pt.
+
+<bin_both_FE_CC-exp(atoms0-1)_1.pdf, id=416, 469.05536pt x 397.26758pt>
+File: bin_both_FE_CC-exp(atoms0-1)_1.pdf Graphic file (type pdf)
+
+<use bin_both_FE_CC-exp(atoms0-1)_1.pdf>
+Package pdftex.def Info: bin_both_FE_CC-exp(atoms0-1)_1.pdf used on input line 
+659.
+(pdftex.def)             Requested size: 230.18251pt x 194.95378pt.
+
+<bin_both_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf, id=417, 476.22893pt x 397.68022pt>
+File: bin_both_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf Graphic file (type pdf)
+
+<use bin_both_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf>
+Package pdftex.def Info: bin_both_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf used on inpu
+t line 666.
+(pdftex.def)             Requested size: 230.18251pt x 192.21931pt.
+ [18 <./bin_both_300_struct.pdf, page is rotated 90 degrees>] [19 <./bin_both_F
+E_CC-exp(atoms0-1)_1.pdf> <./bin_both_FE_rms_ad1_d_AdC(atoms0-1)_1.pdf>]
+<tern_top_250_struct.pdf, id=462, 780.52278pt x 289.18541pt>
+File: tern_top_250_struct.pdf Graphic file (type pdf)
+
+<use tern_top_250_struct.pdf>
+Package pdftex.def Info: tern_top_250_struct.pdf used on input line 688.
+(pdftex.def)             Requested size: 281.85585pt x 104.42877pt.
+
+<tern_both_438_struct.pdf, id=464, 577.08249pt x 176.62486pt>
+File: tern_both_438_struct.pdf Graphic file (type pdf)
+
+<use tern_both_438_struct.pdf>
+Package pdftex.def Info: tern_both_438_struct.pdf used on input line 701.
+(pdftex.def)             Requested size: 281.85585pt x 86.26665pt.
+ [20 <./tern_top_250_struct.pdf, page is rotated 90 degrees> <./tern_both_438_s
+truct.pdf, page is rotated 90 degrees>] [21]
+(./Template.bbl [22
 
 
 
@@ -726,25 +803,25 @@ Underfull \hbox (badness 2189) in paragraph at lines 62--65
 m/n/12 molecular-dynamics sim-u-la-tion of the liquid-
  []
 
-) [19]
+) [23]
 No file Template.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 587.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 587.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
 (./Template.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 587.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 587.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 738.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 738.
 Package rerunfilecheck Info: File `Template.out' has not changed.
-(rerunfilecheck)             Checksum: 5187FDB7B36CFF55B78EE13DB11D75C7;1401.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 587.
+(rerunfilecheck)             Checksum: 83CFA22FA1B5C2DBF441E64D16EA25B0;1440.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 738.
  ) 
 Here is how much of TeX's memory you used:
- 8616 strings out of 493089
- 129682 string characters out of 6134842
- 216288 words of memory out of 5000000
- 11861 multiletter control sequences out of 15000+600000
- 58686 words of font info for 90 fonts, out of 8000000 for 9000
+ 8656 strings out of 493089
+ 131386 string characters out of 6134842
+ 214664 words of memory out of 5000000
+ 11883 multiletter control sequences out of 15000+600000
+ 47834 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,45p,1010b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,12n,45p,1176b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2015/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
 xlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
@@ -756,10 +833,10 @@ s/type1/urw/times/utmb8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/ur
 w/times/utmr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/ut
 mr8a.pfb></usr/local/texlive/2015/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 
-Output written on Template.pdf (24 pages, 1482207 bytes).
+Output written on Template.pdf (27 pages, 2797598 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
- 352 compressed objects within 4 object streams
- 77 named destinations out of 1000 (max. 500000)
- 222 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 565 PDF objects out of 1000 (max. 8388607)
+ 459 compressed objects within 5 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 272 words of extra memory for PDF output out of 10000 (max. 10000000)
 
